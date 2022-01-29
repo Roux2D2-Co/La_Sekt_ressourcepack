@@ -1,0 +1,13 @@
+{
+	"block.anvil.place": {
+		"sounds": ["random/click"],
+		"category": "block",
+		"subtitle": "pute",
+		"replace": true
+	},
+	"block.cake.add_candle": {
+		"sounds": ["block/cake/add_candle1", "block/cake/add_candle2", "block/cake/add_candle3"],
+		"subtitle": "salut",
+    "replace":true
+	}
+}
