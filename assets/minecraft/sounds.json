@@ -21,11 +21,24 @@
 		"subtitle": "subtitles.entity.lightning_bolt.impact"
 	},
 	"entity.minecart.riding": {
-		"sounds": ["random/spitfire"],
+		"sounds": [
+		{
+			"name":"random/spitfire",
+			"volume":1,
+			"attenuation_distance":32
+		}
+		],
+		"subtitle": "SPITFIRE !!!",
 		"replace":true
 	},
 	"entity.minecart.inside": {
-		"sounds": ["random/spitfire"],
+		"sounds": [
+		{
+			"name":"random/spitfire",
+			"volume":0.2
+		}
+		],
+		"subtitle": "GOTTA GO FAST",
 		"replace":true
 	}
 }
