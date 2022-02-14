@@ -22,8 +22,8 @@
 				"attenuation_distance": 32
 			}
 		],
-		"subtitle": "SPITFIRE !!!",
-		"replace": true
+		"subtitle": "GOTTA GO FAST",
+		"replace":true
 	},
 	"entity.pig.ambient": {
 		"sounds": [
@@ -114,7 +114,16 @@
 				"name": "bigard/bigard_18",
 				"volume": 1
 			}
-		],
+		]
+	},
+	"block.bell.use": {
+		"sounds": [
+			{
+			"name":"random/internet/i1",
+			"attenuation_distance":256
+			}, 
+			"random/internet/i2", "random/internet/i3", "random/internet/i4", "random/internet/i5", "random/internet/i6", "random/internet/i7", "random/internet/i8", "random/internet/i9", "random/internet/i10", "random/internet/i11", "random/internet/i12", "random/internet/i13"],
+		"subtitle": "INTERNEEET",
 		"replace": true
 	}
 }
