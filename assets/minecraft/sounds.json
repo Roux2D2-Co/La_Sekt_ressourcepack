@@ -1,44 +1,120 @@
 {
 	"block.anvil.place": {
-		"sounds": ["random/click"],
+		"sounds": ["random/anvil_place"],
 		"category": "block",
-		"subtitle": "pute",
-		"replace": true
-	},
-	"block.cake.add_candle": {
-		"sounds": ["block/cake/add_candle1", "block/cake/add_candle2", "block/cake/add_candle3"],
-		"subtitle": "salut",
 		"replace": true
 	},
 	"entity.tnt.primed": {
 		"sounds": ["random/ca_va_peter"],
-		"replace":true,
+		"replace": true,
 		"subtitle": "subtitles.entity.tnt.primed"
 	},
 	"entity.lightning_bolt.impact": {
 		"sounds": ["random/perfect_fart_reverb"],
-		"replace":true,
+		"replace": true,
 		"subtitle": "subtitles.entity.lightning_bolt.impact"
 	},
 	"entity.minecart.riding": {
 		"sounds": [
-		{
-			"name":"random/spitfire",
-			"volume":1,
-			"attenuation_distance":32
-		}
+			{
+				"name": "random/spitfire",
+				"volume": 1,
+				"attenuation_distance": 32
+			}
 		],
 		"subtitle": "SPITFIRE !!!",
-		"replace":true
+		"replace": true
 	},
-	"entity.minecart.inside": {
+	"entity.pig.ambient": {
 		"sounds": [
-		{
-			"name":"random/spitfire",
-			"volume":0.2
-		}
+			{
+				"name": "mob/pig/say1",
+				"volume": 1,
+				"weight": 15
+			},
+			{
+				"name": "mob/pig/say2",
+				"volume": 1,
+				"weight": 15
+			},
+			{
+				"name": "mob/pig/say3",
+				"volume": 1,
+				"weight": 15
+			},
+			{
+				"name": "bigard/bigard_1",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_2",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_3",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_4",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_5",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_6",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_7",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_8",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_9",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_10",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_11",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_12",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_13",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_14",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_15",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_16",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_17",
+				"volume": 1
+			},
+			{
+				"name": "bigard/bigard_18",
+				"volume": 1
+			}
 		],
-		"subtitle": "GOTTA GO FAST",
-		"replace":true
+		"replace": true
 	}
 }
