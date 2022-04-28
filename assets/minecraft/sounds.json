@@ -161,5 +161,10 @@
 	"entity.player.attack.nodamage": {
 		"sounds": ["random/nope"],
 		"replace": false
+	},
+
+	"entity.cat.beg_for_food": {
+		"sounds": ["mob/cat/food"],
+		"replace": false
 	}
 }
