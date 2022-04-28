@@ -166,5 +166,28 @@
 	"entity.cat.beg_for_food": {
 		"sounds": ["mob/cat/food"],
 		"replace": false
+	},
+
+	"entity.villager.hurt": {
+		"sounds": [
+			"mob/villager/fumier",
+			"mob/villager/je_veux_pas_mourir",
+			"mob/villager/merdeuh_2",
+			"mob/villager/merdeuh_venez_aider",
+			"mob/villager/merdeuh",
+			"mob/villager/oh_ptn_1",
+			"mob/villager/oh_ptn_2",
+			"mob/villager/oh_ptn_3",
+			"mob/villager/oh_ptn_4",
+			"mob/villager/oh_ptn_5",
+			"mob/villager/oh_ptn_6",
+			"mob/villager/oh_ptn_7",
+			"mob/villager/oh_ptn_8",
+			"mob/villager/oh_ptn_9",
+			"mob/villager/oh",
+			"mob/villager/saalete",
+			"mob/villager/venez_aider_les_potes"
+		],
+		"replace": true
 	}
 }
