@@ -139,16 +139,6 @@
 		"replace": true
 	},
 
-	"item.armor.equip_elytra": {
-		"sounds": [
-			{
-				"name": "random/elytra_equiped"
-			}
-		],
-		"subtitle": "Vers l'infini et au delà",
-		"replace": true
-	},
-
 	"item.elytra.flying": {
 		"sounds": [
 			{
