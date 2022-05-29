@@ -199,5 +199,14 @@
 			}
 		],
 		"replace": true
+	},
+	
+	"entity.villager.yes": {
+		"sounds": [
+			{
+				"name": "mob/villager/substitut_relation_amicale"
+			}
+		],
+		"replace": false
 	}
 }
