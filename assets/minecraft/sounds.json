@@ -208,5 +208,14 @@
 			}
 		],
 		"replace": false
+	},
+	
+	"entity.horse.ambient": {
+		"sounds": [
+			{
+				"name": "mob/horse/etalon-du-cul-dit-bonjour"
+			}
+		],
+		"replace": false
 	}
 }
