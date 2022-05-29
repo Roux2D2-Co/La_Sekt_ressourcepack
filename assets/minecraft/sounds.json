@@ -189,5 +189,15 @@
 			"entity/player/burp/burp_4"
 		],
 		"replace": false
+	},
+	
+	"event.raid.horn": {
+		"sounds": [
+			{
+				"name": "event/raid/call_of_duty_zombies_new_round_sound_effect",
+				"volume": 0.1
+			}
+		],
+		"replace": true
 	}
 }
