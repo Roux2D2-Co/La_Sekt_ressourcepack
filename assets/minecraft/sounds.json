@@ -179,5 +179,15 @@
 			"mob/villager/venez_aider_les_potes"
 		],
 		"replace": true
+	},
+
+	"entity.player.burp": {
+		"sounds": [
+			"entity/player/burp/burp_1",
+			"entity/player/burp/burp_2",
+			"entity/player/burp/burp_3",
+			"entity/player/burp/burp_4"
+		],
+		"replace": false
 	}
 }
