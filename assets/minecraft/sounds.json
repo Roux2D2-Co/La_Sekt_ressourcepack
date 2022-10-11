@@ -243,5 +243,57 @@
 			"mob/frog/eat"
 		],
 		"replace": true
+	},
+
+	"item.goat_horn.sound.0": {
+		"sounds": [
+			"item/goat_horn/happy_wheels"
+		]
+	},
+	"item.goat_horn.sound.1": {
+		"sounds": [
+			"item/goat_horn/su"
+		]
+	},
+	"item.goat_horn.sound.2": {
+		"sounds": [
+			"item/goat_horn/airhorn"
+		]
+	},
+	"item.goat_horn.sound.3": {
+		"sounds": [
+			"item/goat_horn/pickle_rick"
+		]
+	},
+	"item.goat_horn.sound.4": {
+		"sounds": [
+			"item/goat_horn/tuturu"
+		]
+	},
+	"item.goat_horn.sound.5": {
+		"sounds": [
+			"item/goat_horn/the_witcher_quest_finished"
+		]
+	},
+	"item.goat_horn.sound.6": {
+		"sounds": [
+			"item/goat_horn/jo"
+		]
+	},
+	"item.goat_horn.sound.7": {
+		"sounds": [
+			{
+				"name": "item/goat_horn/rhinoshield",
+				"volume": 1,
+				"weight": 99
+			},
+			{
+				"name": "item/goat_horn/rhinoshield_rare",
+				"volume": 1,
+				"weight": 1,
+				"attenuation_distance":500
+			}
+		]
 	}
+}
 }
