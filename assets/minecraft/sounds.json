@@ -1,16 +1,22 @@
 {
 	"block.anvil.place": {
-		"sounds": ["random/anvil_place"],
+		"sounds": [
+			"random/anvil_place"
+		],
 		"category": "block",
 		"replace": true
 	},
 	"entity.tnt.primed": {
-		"sounds": ["random/ca_va_peter"],
+		"sounds": [
+			"random/ca_va_peter"
+		],
 		"replace": true,
 		"subtitle": "subtitles.entity.tnt.primed"
 	},
 	"entity.lightning_bolt.impact": {
-		"sounds": ["random/perfect_fart_reverb"],
+		"sounds": [
+			"random/perfect_fart_reverb"
+		],
 		"replace": true,
 		"subtitle": "subtitles.entity.lightning_bolt.impact"
 	},
@@ -138,7 +144,6 @@
 		"subtitle": "INTERNEEET",
 		"replace": true
 	},
-
 	"item.elytra.flying": {
 		"sounds": [
 			{
@@ -147,17 +152,18 @@
 		],
 		"replace": true
 	},
-
 	"entity.player.attack.nodamage": {
-		"sounds": ["random/nope"],
+		"sounds": [
+			"random/nope"
+		],
 		"replace": false
 	},
-
 	"entity.cat.beg_for_food": {
-		"sounds": ["mob/cat/food"],
+		"sounds": [
+			"mob/cat/food"
+		],
 		"replace": false
 	},
-
 	"entity.villager.hurt": {
 		"sounds": [
 			"mob/villager/fumier",
@@ -180,12 +186,15 @@
 		],
 		"replace": true
 	},
-
 	"entity.player.burp": {
-		"sounds": ["entity/player/burp/burp_1", "entity/player/burp/burp_2", "entity/player/burp/burp_3", "entity/player/burp/burp_4"],
+		"sounds": [
+			"entity/player/burp/burp_1",
+			"entity/player/burp/burp_2",
+			"entity/player/burp/burp_3",
+			"entity/player/burp/burp_4"
+		],
 		"replace": false
 	},
-
 	"event.raid.horn": {
 		"sounds": [
 			{
@@ -195,32 +204,46 @@
 		],
 		"replace": true
 	},
-
 	"entity.villager.yes": {
-		"sounds": ["mob/villager/substitut_relation_amicale"],
+		"sounds": [
+			"mob/villager/substitut_relation_amicale"
+		],
 		"replace": false
 	},
-
 	"entity.horse.ambient": {
-		"sounds": ["mob/horse/etalon-du-cul-dit-bonjour"],
+		"sounds": [
+			"mob/horse/etalon-du-cul-dit-bonjour"
+		],
 		"replace": false
 	},
-
 	"entity.allay.ambient_without_item": {
-		"sounds": ["mob/allay/idle_1", "mob/allay/idle_2", "mob/allay/idle_long", "mob/allay/listen", "mob/allay/look", "mob/allay/hey"],
+		"sounds": [
+			"mob/allay/idle_1",
+			"mob/allay/idle_2",
+			"mob/allay/idle_long",
+			"mob/allay/listen",
+			"mob/allay/look",
+			"mob/allay/hey"
+		],
 		"replace": true
 	},
-
 	"entity.allay.ambient_with_item": {
-		"sounds": ["mob/allay/idle_1", "mob/allay/idle_2", "mob/allay/idle_long", "mob/allay/listen", "mob/allay/look", "mob/allay/hey"],
+		"sounds": [
+			"mob/allay/idle_1",
+			"mob/allay/idle_2",
+			"mob/allay/idle_long",
+			"mob/allay/listen",
+			"mob/allay/look",
+			"mob/allay/hey"
+		],
 		"replace": true
 	},
-
 	"entity.allay.death": {
-		"sounds": ["mob/allay/death"],
+		"sounds": [
+			"mob/allay/death"
+		],
 		"replace": true
 	},
-
 	"entity.frog.long_jump": {
 		"sounds": [
 			"mob/frog/jump_1",
@@ -228,7 +251,6 @@
 		],
 		"replace": true
 	},
-
 	"entity.frog.hurt": {
 		"sounds": [
 			"mob/frog/hurt_1",
@@ -237,8 +259,7 @@
 		],
 		"replace": true
 	},
-
-	"entity.frog.tongue": {	
+	"entity.frog.tongue": {
 		"sounds": [
 			"mob/frog/eat"
 		],
@@ -295,5 +316,4 @@
 			}
 		]
 	}
-}
 }
