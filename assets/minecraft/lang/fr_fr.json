@@ -27,5 +27,13 @@
     "item.minecraft.music_disc_wait.desc": "Crazy Frog",
     "item.minecraft.music_disc_ward": "Disque",
     "item.minecraft.music_disc_ward.desc": "?",
-    "item.minecraft.goat_horn.desc": "?"
+    "item.minecraft.goat_horn.desc": "?",
+    "instrument.minecraft.ponder_goat_horn": "Happy Wheels",
+    "instrument.minecraft.sing_goat_horn": "Suuuuuuuu",
+    "instrument.minecraft.seek_goat_horn": "Air horn",
+    "instrument.minecraft.feel_goat_horn": "Pickle rick",
+    "instrument.minecraft.admire_goat_horn": "Tuturu",
+    "instrument.minecraft.call_goat_horn": "The witcher",
+    "instrument.minecraft.yearn_goat_horn": "Jo",
+    "instrument.minecraft.dream_goat_horn": "RHINOSHIELD"
 }
