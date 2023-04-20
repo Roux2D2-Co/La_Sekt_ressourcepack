@@ -20,6 +20,21 @@
 		"replace": true,
 		"subtitle": "subtitles.entity.lightning_bolt.impact"
 	},
+	"entity.player.hurt_on_fire": {
+		"sounds": [
+			{
+				"name": "entity/player/hurt/fuck1",
+				"volume": 1,
+				"weight": 1
+			},
+			{
+				"name": "entity/player/hurt/fuck2",
+				"volume": 1,
+				"weight": 1
+			}
+		],
+		"replace": false
+	},
 	"entity.minecart.riding": {
 		"sounds": [
 			{
