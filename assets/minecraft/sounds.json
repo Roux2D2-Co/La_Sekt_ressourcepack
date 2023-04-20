@@ -289,37 +289,44 @@
 	"item.goat_horn.sound.0": {
 		"sounds": [
 			"item/goat_horn/happy_wheels"
-		]
+		],
+		"replace":true
 	},
 	"item.goat_horn.sound.1": {
 		"sounds": [
 			"item/goat_horn/su"
-		]
+		],
+		"replace":true
 	},
 	"item.goat_horn.sound.2": {
 		"sounds": [
 			"item/goat_horn/airhorn"
-		]
+		],
+		"replace":true
 	},
 	"item.goat_horn.sound.3": {
 		"sounds": [
 			"item/goat_horn/picklerick"
-		]
+		],
+		"replace":true
 	},
 	"item.goat_horn.sound.4": {
 		"sounds": [
 			"item/goat_horn/tuturu"
-		]
+		],
+		"replace":true
 	},
 	"item.goat_horn.sound.5": {
 		"sounds": [
 			"item/goat_horn/the_witcher_quest_finished"
-		]
+		],
+		"replace":true
 	},
 	"item.goat_horn.sound.6": {
 		"sounds": [
 			"item/goat_horn/jo"
-		]
+		],
+		"replace":true
 	},
 	"item.goat_horn.sound.7": {
 		"sounds": [
@@ -332,8 +339,9 @@
 				"name": "item/goat_horn/rhinoshield_rare",
 				"volume": 1,
 				"weight": 1,
-				"attenuation_distance":500
+				"attenuation_distance": 500
 			}
-		]
+		],
+		"replace":true
 	}
 }
