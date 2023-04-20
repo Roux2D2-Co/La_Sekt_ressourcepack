@@ -169,7 +169,10 @@
 	},
 	"entity.player.attack.nodamage": {
 		"sounds": [
-			"random/nope"
+			{
+				"name": "random/nope",
+				"volume": 0.5
+			}
 		],
 		"replace": false
 	},
@@ -213,7 +216,7 @@
 		"sounds": [
 			{
 				"name": "event/raid/call_of_duty_zombies_new_round_sound_effect",
-				"volume": 0.1
+				"volume": 0.2
 			}
 		],
 		"replace": true
