@@ -39,7 +39,7 @@
 		"sounds": [
 			{
 				"name": "random/spitfire",
-				"volume": 1,
+				"volume": 0.75,
 				"attenuation_distance": 3
 			}
 		],
@@ -162,7 +162,8 @@
 	"item.elytra.flying": {
 		"sounds": [
 			{
-				"name": "random/elytra_fly"
+				"name": "random/elytra_fly",
+				"volume": 0.75
 			}
 		],
 		"replace": true
@@ -285,48 +286,47 @@
 		],
 		"replace": true
 	},
-
 	"item.goat_horn.sound.0": {
 		"sounds": [
 			"item/goat_horn/happy_wheels"
 		],
-		"replace":true
+		"replace": true
 	},
 	"item.goat_horn.sound.1": {
 		"sounds": [
 			"item/goat_horn/su"
 		],
-		"replace":true
+		"replace": true
 	},
 	"item.goat_horn.sound.2": {
 		"sounds": [
 			"item/goat_horn/airhorn"
 		],
-		"replace":true
+		"replace": true
 	},
 	"item.goat_horn.sound.3": {
 		"sounds": [
 			"item/goat_horn/picklerick"
 		],
-		"replace":true
+		"replace": true
 	},
 	"item.goat_horn.sound.4": {
 		"sounds": [
 			"item/goat_horn/tuturu"
 		],
-		"replace":true
+		"replace": true
 	},
 	"item.goat_horn.sound.5": {
 		"sounds": [
 			"item/goat_horn/the_witcher_quest_finished"
 		],
-		"replace":true
+		"replace": true
 	},
 	"item.goat_horn.sound.6": {
 		"sounds": [
 			"item/goat_horn/jo"
 		],
-		"replace":true
+		"replace": true
 	},
 	"item.goat_horn.sound.7": {
 		"sounds": [
@@ -342,6 +342,6 @@
 				"attenuation_distance": 500
 			}
 		],
-		"replace":true
+		"replace": true
 	}
 }
